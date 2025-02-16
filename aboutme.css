@@ -1,0 +1,23 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    background-color: darkgreen;
+}
+h3 {
+    background-color: red;
+}
+
+p {
+    background-color: darkmagenta;
+    color: yellow;
+}
+
+a{
+    color:cadetblue
+}
+
+nav {
+    background-color: powderblue;
+}

@@ -1,0 +1,37 @@
+body {
+    background-color:crimson;
+}
+
+#name1 {
+    color:yellowgreen;
+}
+#email1 {
+    color:blue;
+}
+#subject1 {
+    color:black;
+}
+#message1 {
+    color:gainsboro;
+}
+
+#inputname {
+    background-color: blueviolet;
+    
+}
+#inputemail {
+    background-color: chocolate;
+
+}
+#inputtext {
+    background-color: chartreuse;
+
+}
+#inputarea {
+    background-color: darkmagenta;
+
+}
+
+nav {
+    background-color: powderblue;
+}
